@@ -14,4 +14,4 @@ jobs:
         env:
           GH_TOKEN: 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
           GIST_ID: gist.github.com/BrianLee1008
-          TIMEZONE: Asia/Taipei
+          TIMEZONE: Asia/Seoul
